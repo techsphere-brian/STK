@@ -74,4 +74,4 @@ For any questions or feedback, feel free to reach out to:
 
 ---
 
-*This project is maintained by [Ezra Opande](https://github.com/techsphere-brian).*
+*This project is maintained by [Brian](https://github.com/techsphere-brian).*
