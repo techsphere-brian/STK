@@ -16,7 +16,7 @@ A Django application for integrating M-Pesa STK Push functionality.
     ```
 2. Navigate to the project directory:
     ```sh
-    cd STKPushDjango-MPESA
+    cd STK
     ```
 3. Create and activate a virtual environment:
     ```sh
