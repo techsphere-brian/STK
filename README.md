@@ -69,9 +69,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out to:
 
-- Email: ezraopande@gmail.com
-- Phone: +254796759850
+- Email: techsphereke1@gmail.com
+- Phone: +254795477371
 
 ---
 
-*This project is maintained by [Ezra Opande](https://github.com/ezraopande).*
+*This project is maintained by [Ezra Opande](https://github.com/techsphere-brian).*
